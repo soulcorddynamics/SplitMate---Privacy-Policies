@@ -66,4 +66,4 @@ We may update this Privacy Policy from time to time. Updates will be reflected w
 ## **Contact Us**
 
 If you have any questions about this Privacy Policy or SplitMate’s data handling practices, you can contact the developer at:  
-📧 **rohankshatri.dev@gmail.com**
+📧 **soulcord.dynamics@gmail.com**
